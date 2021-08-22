@@ -3,6 +3,6 @@
 팀원 : 오명균, 이윤영  
 
 ## Configuration
-IDE : STS[Spring Tools 4 for Eclipse](4.1.1)  
+IDE : STS"[Spring Tools 4 for Eclipse]"(4.1.1)  
 Server : apache-tomcat-9.0.45  
 
