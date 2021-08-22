@@ -2,4 +2,6 @@
 6조 팀장 : 남영준  
 팀원 : 오명균, 이윤영  
 
-## IOTServer Repository
+## Configuration
+IDE : STS[Spring Tools 4 for Eclipse](4.1.1)
+Server : apache-tomcat-9.0.45
