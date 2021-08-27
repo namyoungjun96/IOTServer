@@ -13,6 +13,7 @@ public class TestMqtt {
 			message.setPayload("topic test".getBytes());
 			client.publish("test1", message);
 			client.disconnect();
+			client.close();
 		} catch (MqttException e) {
 			e.printStackTrace();
 		}

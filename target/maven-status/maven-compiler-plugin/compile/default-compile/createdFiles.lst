@@ -1,1 +1,6 @@
-com\javis\iot\HomeController.class
+com\javis\iot\controller\TestController.class
+com\javis\iot\mqtt\ExampleMqtt.class
+com\javis\iot\config\WebConfig.class
+com\javis\iot\mqtt\TestMqtt.class
+com\javis\iot\controller\HomeController.class
+com\javis\iot\mqtt\MyMqttClient.class
