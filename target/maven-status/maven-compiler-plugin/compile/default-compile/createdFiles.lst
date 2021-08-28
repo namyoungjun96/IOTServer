@@ -1,6 +1,10 @@
+com\javis\iot\command\ProcessBuilderExample.class
+com\javis\iot\controller\FileTestController.class
 com\javis\iot\controller\TestController.class
 com\javis\iot\mqtt\ExampleMqtt.class
 com\javis\iot\config\WebConfig.class
 com\javis\iot\mqtt\TestMqtt.class
 com\javis\iot\controller\HomeController.class
 com\javis\iot\mqtt\MyMqttClient.class
+com\javis\iot\controller\FileController.class
+com\javis\iot\mqtt\MqttHandler.class

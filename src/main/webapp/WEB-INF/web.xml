@@ -34,9 +34,4 @@
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 
-	<error-page>
-		<location>/error/</location>
-	</error-page>
-
-
 </web-app>

@@ -16,8 +16,6 @@
 <P>  The time on the server is ${serverTime}. </P>
 ${path }
 
-<script>alert('잘 되나?');</script>
-
 <script src="${path}/resources/js/mqtthandler.js"></script>
 </body>
 </html>

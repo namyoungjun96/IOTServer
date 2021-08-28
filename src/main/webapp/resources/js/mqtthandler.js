@@ -1,5 +1,3 @@
-alert('잘 된다');
-
 function mqtt_onLight(){
 	alert('일단 된다');
 	/*$.ajax({
