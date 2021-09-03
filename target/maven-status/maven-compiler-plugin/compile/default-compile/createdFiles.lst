@@ -1,6 +1,11 @@
 com\javis\iot\mqtt\ExampleMqtt.class
+com\javis\iot\controller\RequestController.class
 com\javis\iot\config\WebConfig.class
 com\javis\iot\mqtt\TestMqtt.class
 com\javis\iot\controller\HomeController.class
+com\javis\iot\command\Test.class
+com\javis\iot\command\CameraProcess.class
 com\javis\iot\mqtt\MyMqttClient.class
+com\javis\iot\command\DownloadBehavior.class
+com\javis\iot\command\ReturnDate.class
 com\javis\iot\mqtt\MqttHandler.class
